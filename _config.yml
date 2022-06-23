@@ -16,7 +16,7 @@
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.aeon.cash" # the base hostname & protocol for your site
+url: "https://ar-net.github.io" # the base hostname & protocol for your site
 
 
 # Build settings

@@ -1,7 +1,7 @@
 # AEON Project Website
 Copyright (c) 2014-2022, AEON Project
 
-url: https://www.aeon.cash
+url: https://ar-net.github.io
 
 ## Site Details:
 AEON.cash is powered by Jekyll and hosted on Github. Changes made to this repository will reflect on to the website within moments of being committed.
@@ -28,7 +28,7 @@ title:
   es: "AEON - Moneda Privada Digital Amigable para Móviles"
 ```
 
-If you were to add in another language, please use a two letter language code (three letters if there is a conflict between language codes). 
+If you were to add in another language, please use a two letter language code (three letters if there is a conflict between language codes).
 ```
 title:
   en: "AEON - Mobile-friendly private digital currency" #you should base your translation off of this line.
@@ -43,10 +43,10 @@ index:
   pl: index.pl # this is the copied index.pl.html
 ```
 
-Follow what is already in the file as a guide. When in doubt, [reach out](#reaching-out). 
+Follow what is already in the file as a guide. When in doubt, [reach out](#reaching-out).
 
 #### Required edits to _includes/header.html
-This file includes the drop down for our languages. In _includes/header.html, we ask that you add your language in. 
+This file includes the drop down for our languages. In _includes/header.html, we ask that you add your language in.
 
 In this file, find the lines:
 ```
@@ -64,7 +64,7 @@ After the very last language, add in your language with a link to your index pag
 </div>
 ```
 
-After completing the above, you should be ready to submit a Pull Request to be reviewed. 
+After completing the above, you should be ready to submit a Pull Request to be reviewed.
 
 #### Translation credits:
 * English: Multiple sources.
