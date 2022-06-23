@@ -4,7 +4,7 @@ Copyright (c) 2014-2022, AEON Project
 url: https://ar-net.github.io
 
 ## Site Details:
-AEON.cash is powered by Jekyll and hosted on Github. Changes made to this repository will reflect on to the website within moments of being committed.
+ar-net.github.io is powered by Jekyll and hosted on Github. Changes made to this repository will reflect on to the website within moments of being committed.
 
 ### Adding a translation:
 The following files will be altered in some way during translation:
