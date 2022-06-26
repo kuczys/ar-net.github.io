@@ -1,3 +1,6 @@
 .sass-cache
 .jekyll-metadata
 .vs
+_site/feed.xml
+_site/index.xml
+_site/redirect.json
