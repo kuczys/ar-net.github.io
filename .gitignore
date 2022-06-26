@@ -4,4 +4,4 @@
 _site/feed.xml
 _site/index.xml
 _site/redirect.json
-.Gefile.lock
+.Gemfile.lock
