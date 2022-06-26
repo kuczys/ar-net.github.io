@@ -476,20 +476,20 @@ Headline
 }
 .scroll-fixed-navbar {
     padding: 10px 0;
-    background-color: #FFF;
+    background-color: #212121;
     -webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
     box-shadow: 0 0 7px rgba(0, 0, 0, 0.1);
 }
 .scroll-fixed-navbar .navbar-nav> li> a, .scroll-fixed-navbar .navbar-nav > li > a:focus {
-    color: #333;
+    color: #FFF;
 }
-.scroll-fixed-navbar .navbar-nav> li.dropdown> a, .scroll-fixed-navbar .navbar-nav > li.dropdown > a:focus, .scroll-fixed-navbar .navbar-nav > li.dropdown > a:hover {
-    color: #333;
-}
-.scroll-fixed-navbar .navbar-nav> li> a:hover, .scroll-fixed-navbar .navbar-nav> li.li-active> a, .scroll-fixed-navbar .navbar-nav> li.li-active> a:hover {
-    color: #00a8d6;
-}
+    .scroll-fixed-navbar .navbar-nav > li.dropdown > a, .scroll-fixed-navbar .navbar-nav > li.dropdown > a:focus, .scroll-fixed-navbar .navbar-nav > li.dropdown > a:hover {
+        color: #FFF;
+    }
+    .scroll-fixed-navbar .navbar-nav > li > a:hover, .scroll-fixed-navbar .navbar-nav > li.li-active > a, .scroll-fixed-navbar .navbar-nav > li.li-active > a:hover {
+        color: #fdbf1e;
+    }
 
 .navbar-toggle {
     position: relative;
@@ -498,7 +498,7 @@ Headline
     padding: 10px;
     margin: 13px 30px 13px 0;
     border: none;
-    color: #fff;
+    color: #fdbf1e;
     border: 2px solid #fff;
 }
 .navbar-toggle .icon-bar {
