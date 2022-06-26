@@ -24,3 +24,5 @@ gem "minima"
 # end
 
 gem 'jekyll-redirect-from'
+
+gem "webrick", "~> 1.7"
